@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455996065105",
+    "project_id": "sagatrans-6c20c",
+    "storage_bucket": "sagatrans-6c20c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455996065105:android:b1e204a290f7f48384ff70",
+        "android_client_info": {
+          "package_name": "com.example.sistem_managemen_tiket_bus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiGs5fwGy2Oj55y0QQG1p5dPreZlDVJ9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
